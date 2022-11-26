@@ -1,0 +1,44 @@
+body{
+
+    font-family: sans-serif;
+    
+}
+
+#data{
+
+max-width: 500px;
+margin:2rem auto;
+border:2px solid orangered;
+padding:2rem;
+
+}
+
+input {
+    
+    display: block;
+    width:100%;
+    padding:1rem 0 .25rem;
+    border:2px solid darkcyan;
+}
+#btn{
+
+    border:0;
+    background-color: purple;
+    color:white;
+    padding:0.5rem;
+    margin:1rem 0;
+    width:auto;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.box{
+
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+
+
+
